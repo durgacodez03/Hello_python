@@ -1,2 +1,7 @@
 # Hello_python
-Base python file 
+>> Python Basics 
+>> Data types
+>> Strings : immutable
+>> Lists : Mutable and ordered
+>> Tuples: Immutable and ordered
+
