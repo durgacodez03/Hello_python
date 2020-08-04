@@ -1,0 +1,4 @@
+2020-07-24 17:05:57,215 :: DEBUG :: I am debugging
+2020-07-24 17:05:57,216 :: INFO :: I am Info
+2020-07-24 17:05:57,216 :: WARNING :: Its just a warning
+2020-07-24 17:05:57,216 :: ERROR :: I am an error
